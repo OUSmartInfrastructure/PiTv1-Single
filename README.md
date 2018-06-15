@@ -5,4 +5,4 @@ PiT v1 is an attempt to create Raspberry Pi based SNMP datacenter temperature/hu
 
 Instructions/diagrams/tutorial is provided to get users started.
 
-Special thanks to Adafruit
+Special thanks to all the ITS students and faculty that helped made this possible and Adafruit for the great sensors and tutorials.
